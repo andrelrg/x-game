@@ -5,6 +5,9 @@ A simple vanilla python game
 I don't even know what it will be, but certainly someday will be something!
 
 ## Instalation
-pip3 install virtualenv
-python3 -m venv $(pwd)
-pip3 install -r requirements.txt
+`pip3 install virtualenv`<br>
+`python3 -m venv $(pwd)`<br>
+`pip3 install -r requirements.txt`<br>
+
+## Running
+`python3 game.py`
