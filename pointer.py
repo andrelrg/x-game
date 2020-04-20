@@ -7,7 +7,7 @@ left = "a"
 right = "d"
 
 class Pointer:
-    def __init__(self, screen, x=5, y=5, rep='X'):
+    def __init__(self, screen, x=10, y=1, rep='X'):
         self.line = x
         self.column = y
         self.screen = screen
